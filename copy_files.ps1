@@ -1,0 +1,2 @@
+Copy-Item "c:\Users\amanr\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\4990EA9A35464E9D7A65ED800A221C7812149418\transfers\2026-12\Bank_data_analysis - Copy.ipynb" "C:\Users\amanr\.gemini\antigravity\scratch\Predictive-Modeling-for-Bank-Direct-Marketing-Campaigns\bank_data_analysis.ipynb"
+Copy-Item "D:\Local Disk\Downloads\bank-additional-full.csv" "C:\Users\amanr\.gemini\antigravity\scratch\Predictive-Modeling-for-Bank-Direct-Marketing-Campaigns\bank-additional-full.csv"
